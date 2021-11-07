@@ -1,5 +1,5 @@
 import cv2
-import dli
+import dlib
 from imutils import face_utils
 import argparse
 
